@@ -1,4 +1,4 @@
-From root dir, run 
+From backend dir, run 
 
 `python3 scripts/establish_part_lookup.py`
 `python3 scripts/load_part_select_info.py`
